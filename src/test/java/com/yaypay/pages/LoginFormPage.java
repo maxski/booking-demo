@@ -1,9 +1,8 @@
 package com.yaypay.pages;
 
 import com.codeborne.selenide.SelenideElement;
-import org.testng.Reporter;
 
-import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selenide.*;
 
 /**
  * Page Object class describes login form page:

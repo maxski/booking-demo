@@ -2,7 +2,7 @@ package com.yaypay.pages;
 
 import com.codeborne.selenide.SelenideElement;
 
-import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selenide.*;
 
 /**
  * Page Object class describes header panel.
